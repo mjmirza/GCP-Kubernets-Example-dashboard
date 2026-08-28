@@ -1,4 +1,7 @@
 # GCP-Kubernets-Example-dashboard
+
+[![OpenRoots ORA 2.3](https://openroots.org/badge/ora.svg)](https://openroots.org/licenses/ora/2.3)
+
 ##### Step 1 
 
 Visit: For the detailed guide on K8s Dashboard guide
